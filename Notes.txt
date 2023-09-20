@@ -1,0 +1,10 @@
+going to create a platformer
+everything is going slow for beginners
+here we go ?
+coords start from left top corner to right bottom corner
+an idea for scrolling bg :
+move the image backward ,  then redraw the image as soon as it ends
+if the image is completely off screen then reset it to 0
+the event  is goig kind of slowwww fixing others errors 
+i was correct about the image scrolling
+now its going very technical for beginners
